@@ -1,2 +1,7 @@
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+--platform linux/arm64 xhofe/alist:main 
+--platform linux/arm64 jeessy/ddns-go 
+--platform linux/arm64 linuxserver/heimdall:latest 
+--platform linux/arm64 6053537/portainer-ce 
+--platform linux/arm64 lstcml/n1_verysync 
+--platform linux/arm64 tailscale/tailscale 
 
