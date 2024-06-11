@@ -1,5 +1,1 @@
---platform linux/arm64 onething1/wxedge:latest
---platform linux/arm64 sanjusss/aliyun-ddns
---platform linux/arm64 nextcloud
---platform linux/arm64 johngong/baidunetdisk:latest
---platform linux/arm64 johngong/baidunetdisk:latest
+--platform linux/arm64 cnk3x/xunlei:latest
