@@ -1,1 +1,1 @@
---platform linux/arm64 francescou/docker-compose-ui
+francescou/docker-compose-ui
