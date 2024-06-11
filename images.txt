@@ -1,14 +1,7 @@
---platform linux/arm64 lscr.io/linuxserver/qbittorrent:latest
---platform linux/arm64 p3terx/aria2-pro
---platform linux/arm64 p3terx/ariang
---platform linux/arm64 yiwanlingyi/baota_back:lnmp59-arm
- --platform linux/arm64 homeassistant/home-assistant 
---platform linux/arm64 kodcloud/kodexplorer:latest
- --platform linux/arm64 wangbinxingkong/fast
---platform linux/arm64 jyhking/onecloud:latest
 --platform linux/arm64 whyour/qinglong:latest
 --platform linux/arm64  xuanaimai/onecloud
 --platform linux/arm64 onething1/wxedge:latest
 --platform linux/arm64 sanjusss/aliyun-ddns
 --platform linux/arm64 nextcloud
+--platform linux/arm64 johngong/baidunetdisk:latest
 --platform linux/arm64 johngong/baidunetdisk:latest
