@@ -1,1 +1,1 @@
-francescou/docker-compose-ui
+--platform linux/arm64 80X86/filebrowser
