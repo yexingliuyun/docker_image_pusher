@@ -1,1 +1,1 @@
---platform linux/arm64 red5d/docker-autocompose:latest
+red5d/docker-autocompose:latest
