@@ -1,5 +1,3 @@
---platform linux/arm64 whyour/qinglong:latest
---platform linux/arm64  xuanaimai/onecloud
 --platform linux/arm64 onething1/wxedge:latest
 --platform linux/arm64 sanjusss/aliyun-ddns
 --platform linux/arm64 nextcloud
