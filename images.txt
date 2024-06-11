@@ -1,7 +1,3 @@
 --platform linux/arm64 jlesage/freefilesync
---platform linux/arm64 lscr.io/linuxserver/syncthing:latest
---platform linux/arm64 jellyfin/jellyfin
---platform linux/arm64 sulinggg/openwrt:latest
---platform linux/arm64 zx5253/webdav-aliyundriver
 --platform linux/arm64 jonnyan404/verysync
---platform linux/arm64 nyanmisaka/jellyfin:latest
+--platform linux/arm64 resilio/sync
