@@ -1,1 +1,1 @@
-red5d/docker-autocompose:latest
+--platform linux/arm64 francescou/docker-compose-ui
