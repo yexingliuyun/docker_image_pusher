@@ -1,1 +1,1 @@
---platform linux/arm64 80X86/filebrowser
+--platform linux/arm64 80x86/filebrowser
