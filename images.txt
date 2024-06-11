@@ -1,7 +1,8 @@
 --platform linux/arm64 linuxserver/duplicati
 --platform linux/arm64 hrfee/jfa-go
 --platform linux/arm64 xiaoyaliu/alist
---platform linux/arm64 amilys/embyserver
+amilys/embyserver
 --platform linux/arm64 linuxserver/resilio-sync
 --platform linux/arm64 yipengfei/movie-robot
 --platform linux/arm64 hsuyelin/nas-tools
+--platform linux/arm64 goodsync:latest
