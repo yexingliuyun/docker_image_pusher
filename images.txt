@@ -1,1 +1,1 @@
---platform linux/arm64 ghcr.io/spacedriveapp/spacedrive/server:latest
+ghcr.io/spacedriveapp/spacedrive/server:latest
