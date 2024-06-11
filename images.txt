@@ -1,1 +1,1 @@
-ghcr.io/spacedriveapp/spacedrive/server:latest
+--platform linux/arm64 red5d/docker-autocompose:latest
