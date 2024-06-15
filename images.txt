@@ -1,1 +1,1 @@
-resilio/sync
+80x86/filebrowser:amd64
