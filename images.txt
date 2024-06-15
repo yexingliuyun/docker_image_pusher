@@ -1,1 +1,1 @@
-80x86/filebrowser:amd64
+80x86/filebrowser:arm64
