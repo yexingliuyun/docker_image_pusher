@@ -1,1 +1,1 @@
---platform linux/arm64 trueaiorg/mdrive
+trueaiorg/mdrive
