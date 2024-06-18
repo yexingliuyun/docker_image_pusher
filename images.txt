@@ -1,1 +1,1 @@
-trueaiorg/mdrive
+--platform linux/arm64 cloudnas/clouddrive2-unstable
