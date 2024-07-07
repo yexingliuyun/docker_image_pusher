@@ -1,1 +1,1 @@
---platform linux/arm64 cloudnas/clouddrive2-unstable
+--platform linux/arm64 cnk3x/xunlei:latest
