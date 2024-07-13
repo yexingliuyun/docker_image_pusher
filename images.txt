@@ -1,1 +1,2 @@
---platform linux/arm64 cnk3x/xunlei:latest
+--platform linux/arm64 p3terx/aria2-pro:latest
+--platform linux/arm64 p3terx/ariang:latest
