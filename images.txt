@@ -3,7 +3,6 @@
 --platform linux/arm64 xhofe/alist:main
 zhiwei1998/chfs:arm32v7-2.0
 linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_2021-03-10
---platform linux/arm64 w8ves/openwrt:onecloud
 --platform linux/arm64 ericwang2006/ttnode
 --platform linux/arm64 linkease/ddnsto
 --platform linux/arm64 lordpedal/minidlna
