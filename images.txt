@@ -1,7 +1,6 @@
 --platform linux/arm64 p3terx/aria2-pro:latest
 --platform linux/arm64 p3terx/ariang:latest
 --platform linux/arm64 xhofe/alist:main
---platform linux/arm64 ugeek/webdav
 zhiwei1998/chfs:arm32v7-2.0
 linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_2021-03-10
 --platform linux/arm64 w8ves/openwrt:onecloud
