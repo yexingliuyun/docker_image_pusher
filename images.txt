@@ -6,3 +6,4 @@ linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_20
 --platform linux/arm64 ericwang2006/ttnode
 --platform linux/arm64 linkease/ddnsto
 --platform linux/arm64 lordpedal/minidlna
+--platform linux/arm64 linkease/linkease
