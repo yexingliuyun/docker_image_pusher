@@ -14,3 +14,4 @@ linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_20
 zonty/nas-tools:2.9.1
 --platform linux/arm64 linyuan0213/nas-tools:latest
 --platform linux/arm64 linyuan0213/nas-tools-ocr:latest
+--platform linux/arm64 fjlzwl/nastool
