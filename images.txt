@@ -10,5 +10,5 @@ linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_20
 --platform linux/arm64 cloudnas/clouddrive2
 --platform linux/arm64 allanpk716/chinesesubfinder:latest-lite
 --platform linux/arm64 linuxserver/jackett
---platform linux/arm64 diluka/nas-tools
---platform linux/arm64 zonty/nas-tools:2.9.1
+--platform linux/arm64 diluka/nas-tools:2.9.1
+zonty/nas-tools:2.9.1
