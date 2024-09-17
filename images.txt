@@ -15,3 +15,4 @@ zonty/nas-tools:2.9.1
 --platform linux/arm64 linyuan0213/nas-tools-ocr:latest
 fjlzwl/nastool
 --platform linux/arm64 diluka/nas-tools:2.9.1
+--platform linux/arm64 shenxianmq/auto_symlink:latest
