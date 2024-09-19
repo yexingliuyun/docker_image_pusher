@@ -16,4 +16,4 @@ zonty/nas-tools:2.9.1
 fjlzwl/nastool
 --platform linux/arm64 diluka/nas-tools:2.9.1
 --platform linux/arm64 shenxianmq/auto_symlink:latest
-jellyfin/jellyfin:latest
+linuxserver/jellyfin
