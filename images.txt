@@ -1,3 +1,2 @@
-linuxserver/duplicati:arm32v7-development-v2.0.5.114-2.0.5.114_canary_2021-03-10-ls49
-
+--platform linux/arm64 jellyfin/jellyfin
 
