@@ -18,5 +18,5 @@ fjlzwl/nastool
 --platform linux/arm64 shenxianmq/auto_symlink:latest
 nyanmisaka/jellyfin
 --platform linux/arm64 jellyfin/jellyfin
---platform linux/arm64 lscr.io/linuxserver/jellyfin:latest
-lscr.io/linuxserver/duplicati:latest
+--platform linux/arm64 linuxserver/jellyfin
+
