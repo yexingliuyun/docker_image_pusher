@@ -19,3 +19,4 @@ fjlzwl/nastool
 nyanmisaka/jellyfin
 --platform linux/arm64 jellyfin/jellyfin
 --platform linux/arm64 lscr.io/linuxserver/jellyfin:latest
+lscr.io/linuxserver/duplicati:latest
