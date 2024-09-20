@@ -1,22 +1,3 @@
---platform linux/arm64 p3terx/aria2-pro:latest
---platform linux/arm64 p3terx/ariang:latest
---platform linux/arm64 xhofe/alist:main
-zhiwei1998/chfs:arm32v7-2.0
-linuxserver/duplicati:arm32v7-development-version-v2.0.5.114-2.0.5.114_canary_2021-03-10
---platform linux/arm64 ericwang2006/ttnode
---platform linux/arm64 linkease/ddnsto
---platform linux/arm64 lordpedal/minidlna
---platform linux/arm64 linkease/linkease
---platform linux/arm64 cloudnas/clouddrive2
---platform linux/arm64 allanpk716/chinesesubfinder:latest-lite
---platform linux/arm64 linuxserver/jackett
-zonty/nas-tools:2.9.1
---platform linux/arm64 linyuan0213/nas-tools:latest
---platform linux/arm64 linyuan0213/nas-tools-ocr:latest
-fjlzwl/nastool
---platform linux/arm64 diluka/nas-tools:2.9.1
---platform linux/arm64 shenxianmq/auto_symlink:latest
-nyanmisaka/jellyfin
---platform linux/arm64 jellyfin/jellyfin
---platform linux/arm64 linuxserver/jellyfin
+linuxserver/duplicati:arm32v7-development-v2.0.5.114-2.0.5.114_canary_2021-03-10-ls49
+
 
