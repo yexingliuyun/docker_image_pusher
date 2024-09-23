@@ -1,2 +1,2 @@
---platform linux/arm64 lstcml/duplicati
+--platform linux/arm64 duplicati/duplicati
 
